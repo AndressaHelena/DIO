@@ -1,4 +1,3 @@
-//variaveis heroi
 let nome = "Jiraiya";
 let nivel = ""
 let xp =  6000;
