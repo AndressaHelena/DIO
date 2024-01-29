@@ -25,3 +25,5 @@ function ranking(vitorias, derrotas){
 
     
     
+
+
